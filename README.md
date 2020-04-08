@@ -11,7 +11,7 @@ All you need to do is click the Download button above on this page to download i
 
 <img width="420" alt="launch" src="https://user-images.githubusercontent.com/25215341/78754762-a2be4080-79aa-11ea-8dbb-766ecd1ebb80.png">
 
-<img width="589" alt="remover1" src="https://user-images.githubusercontent.com/25215341/78556784-2c063380-7842-11ea-8d9b-554ec03952cb.png">
+<img width="513" alt="remover2" src="https://user-images.githubusercontent.com/25215341/78782526-c1d1c800-79d4-11ea-91dc-2f9126153f54.png">
 
 Select the first option if you want to delete the duplicated JPG images and keep the HEIC ones. I prefer this option because JPG are ways heavier than HEIC and this could help saving me a lot of disk space on my Macbook 's SSD. I was able to reclaim about 30GB of free space after removing all duplicated JPG images, which is a lot. In case you want to delete HEIC images and keep the JPG ones, you can select 2nd option
 
